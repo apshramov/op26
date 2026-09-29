@@ -14,4 +14,5 @@ for i in range(N):
                 if count_2 > count:
                     count = count_2
                     count_2 = 0
+            cif = N_2
 print(count)
